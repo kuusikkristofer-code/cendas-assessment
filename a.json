@@ -1,17 +1,17 @@
 [
     {
         "id": 1,
-        "story": "Will Al Fayha Saudi Club win on 2025-12-25?",
-        "confidence": 0.99
+        "price_limit": "Will Al Fayha Saudi Club win on 2025-12-25?",
+        "storage_space": 0.99
     },
     {
         "id": 2,
-        "story": "Will Al Fayha Saudi Club vs. Al Hazem SC end in a draw?",
-        "confidence": 0.01
+        "price_limit": "Will Al Fayha Saudi Club vs. Al Hazem SC end in a draw?",
+        "storage_space": 0.01
     },
     {
         "id": 3,
-        "story": "Will Al Hazem SC win on 2025-12-25?",
-        "confidence": 0.01
+        "price_limit": "Will Al Hazem SC win on 2025-12-25?",
+        "storage_space": 0.01
     }
 ]
